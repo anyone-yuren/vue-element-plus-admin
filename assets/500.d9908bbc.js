@@ -1,0 +1,1 @@
+import{_ as r}from"./Error.e223bb28.js";import{d as o}from"./index.f1eecc2c.js";import{b as s,O as t,o as e,f as a,u as d}from"./vendor.feecdbda.js";/* empty css                  */const p=s({setup(s){const{push:p}=t(),f=o(),n=()=>{var r;p(null==(r=f.addRouters[0])?void 0:r.path)};return(o,s)=>(e(),a(d(r),{type:"500",onErrorClick:n}))}});export{p as default};
